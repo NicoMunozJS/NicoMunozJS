@@ -1,38 +1,38 @@
-# ?? Hola, soy Nicolás Muñoz  
+# ğŸ‘‹ Hola, soy NicolÃ¡s MuÃ±oz  
 
-?? **QA Analyst | Ingeniero en Informática | Desarrollador en formación**  
+ğŸ’» **QA Analyst | Ingeniero en InformÃ¡tica | Desarrollador en formaciÃ³n**  
 
 Actualmente estoy:
-- ?? Aprendiendo **React & JavaScript** en Desafío Latam.  
-- ?? Especializado en **pruebas manuales y automatización**.  
-- ?? Construyendo proyectos con **GitHub, React y Node.js**.  
+- ğŸš€ Aprendiendo **React & JavaScript** en DesafÃ­o Latam.  
+- ğŸ” Especializado en **pruebas manuales y automatizaciÃ³n**.  
+- ğŸ“š Construyendo proyectos con **GitHub, React y Node.js**.  
 
-?? Desde **Chile**, siempre buscando mejorar mis habilidades técnicas y aportar valor en equipos de desarrollo.  
+ğŸŒ Desde **Chile**, siempre buscando mejorar mis habilidades tÃ©cnicas y aportar valor en equipos de desarrollo.  
 
 ---
 
-### ??? Tecnologías y herramientas
+### ğŸ› ï¸ TecnologÃ­as y herramientas
 - **Lenguajes:** JavaScript, HTML, CSS, SQL  
-- **Frameworks/Librerías:** React, Node.js (aprendiendo)  
+- **Frameworks/LibrerÃ­as:** React, Node.js (aprendiendo)  
 - **QA Tools:** Jira, Confluence, Git, Postman  
 - **Otros:** GitHub Actions, Agile / Scrum  
 
 ---
 
-### ?? Algunos proyectos destacados
-- [Pizzería Mamma Mía](https://github.com/imignaciotwentythree/pizzeria-mammamia-2) – Manejo de estados y formularios en React.  
-- [Iguana Page](https://github.com/imignaciotwentythree/iguana-page) – Landing page con HTML y CSS.  
-- [Cuppon](https://github.com/imignaciotwentythree/cupon) – Proyecto de maquetación responsiva.  
+### ğŸ“‚ Algunos proyectos destacados
+- [PizzerÃ­a Mamma MÃ­a](https://github.com/imignaciotwentythree/pizzeria-mammamia-2) â€“ Manejo de estados y formularios en React.  
+- [Iguana Page](https://github.com/imignaciotwentythree/iguana-page) â€“ Landing page con HTML y CSS.  
+- [Cuppon](https://github.com/imignaciotwentythree/cupon) â€“ Proyecto de maquetaciÃ³n responsiva.  
 
 ---
 
-### ?? Mis estadísticas en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=imignaciotwentythree&show_icons=true&theme=tokyonight)  
+### ğŸ“Š Mis estadÃ­sticas en GitHub
+![EstadÃ­sticas de GitHub](https://github-readme-stats.vercel.app/api?username=imignaciotwentythree&show_icons=true&theme=tokyonight)  
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=imignaciotwentythree&layout=compact&theme=tokyonight)  
+![Lenguajes mÃ¡s usados](https://github-readme-stats.vercel.app/api/top-langs/?username=imignaciotwentythree&layout=compact&theme=tokyonight)  
 
 ---
 
-### ?? Conéctate conmigo
-- ?? LinkedIn: [linkedin.com/in/nicolas-munoz](https://linkedin.com/in/nicolas-munoz)  
-- ?? Portafolio: [nicolasmun0z.github.io](https://nicolasmun0z.github.io/)  
+### ğŸ“« ConÃ©ctate conmigo
+- ğŸ’¼ LinkedIn: [linkedin.com/in/nicolas-munoz](https://linkedin.com/in/nicolas-munoz)  
+- ğŸŒ Portafolio: [nicolasmun0z.github.io](https://nicolasmun0z.github.io/)  
