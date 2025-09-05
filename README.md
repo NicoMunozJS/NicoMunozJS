@@ -4,7 +4,7 @@
 
 Actualmente estoy:
 - 🚀 Aprendiendo **React & JavaScript** en Desafío Latam.  
-- 🔍 Especializado en **pruebas manuales y automatización**.  
+- 🔍 Especializado en **pruebas manuales y Quality Assurance**.  
 - 📚 Construyendo proyectos con **GitHub, React y Node.js**.  
 
 🌎 Desde **Chile**, siempre buscando mejorar mis habilidades técnicas y aportar valor en equipos de desarrollo.  
