@@ -34,5 +34,5 @@ Actualmente estoy:
 ---
 
 ### 📫 Conéctate conmigo
-- 💼 LinkedIn: [linkedin.com/in/nicolas-munoz](https://linkedin.com/in/nicolas-munoz)  
-- 🌐 Portafolio: [nicolasmun0z.github.io](https://nicolasmun0z.github.io/)  
+- 💼 LinkedIn: [linkedin.com/in/nicolas-munoz](https://linkedin.com/in/qanicolasmunoz)  
+
