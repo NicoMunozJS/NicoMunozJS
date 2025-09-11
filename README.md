@@ -20,9 +20,9 @@ Actualmente estoy:
 ---
 
 ### 📂 Algunos proyectos destacados
-- [Pizzería Mamma Mía](https://github.com/imignaciotwentythree/pizzeria-mammamia-2) – Manejo de estados y formularios en React.  
-- [Iguana Page](https://github.com/imignaciotwentythree/iguana-page) – Landing page con HTML y CSS.  
-- [Cuppon](https://github.com/imignaciotwentythree/cupon) – Proyecto de maquetación responsiva.  
+- [Pizzería Mamma Mía](https://github.com/nicomunozjs/pizzeria-mammamia-2) – Manejo de estados y formularios en React.  
+- [Iguana Page](https://github.com/nicomunozjs/iguana-page) – Landing page con HTML y CSS.  
+- [Cuppon](https://github.com/nicomunozjs/cupon) – Proyecto de maquetación responsiva.  
 
 ---
 
