@@ -12,27 +12,28 @@ Actualmente estoy:
 ---
 
 ### 🛠️ Tecnologías y herramientas
-- **Lenguajes:** JavaScript, HTML, CSS, SQL  
+- **Lenguajes:** JavaScript, HTML, CSS, BBDD  
 - **Frameworks/Librerías:** React, Node.js (aprendiendo)  
-- **QA Tools:** Jira, Confluence, Git, Postman  
+- **QA Tools:** Jira, Confluence, Git 
 - **Otros:** GitHub Actions, Agile / Scrum  
 
 ---
 
 ### 📂 Algunos proyectos destacados
 - [Pizzería Mamma Mía](https://github.com/nicomunozjs/pizzeria-mammamia-2) – Manejo de estados y formularios en React.  
-- [Iguana Page](https://github.com/nicomunozjs/iguana-page) – Landing page con HTML y CSS.  
-- [Cuppon](https://github.com/nicomunozjs/cupon) – Proyecto de maquetación responsiva.  
+- [Iguana Page](https://github.com/NicoMunozJS/desafio-18-estados-componentes-eventos) – Landing page con HTML, CSS y JS.  
+- [Cuppon](https://github.com/NicoMunozJS/desafio-04-cupon) – Proyecto de maquetación responsiva.  
 
 ---
 
 ### 📊 Mis estadísticas en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=imignaciotwentythree&show_icons=true&theme=tokyonight)  
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicomunozjs&show_icons=true&theme=tokyonight)  
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=imignaciotwentythree&layout=compact&theme=tokyonight)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nicomunozjs&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 📫 Conéctate conmigo
-- 💼 LinkedIn: [linkedin.com/in/nicolas-munoz](https://linkedin.com/in/qanicolasmunoz)  
+- 💼 LinkedIn: [linkedin.com/in/nicolas-munoz](https://linkedin.com/in/qanicolasmunoz)
+- 💼 Portafolio: https://qanicolasmunoz.vercel.app/
 
