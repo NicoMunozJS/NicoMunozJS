@@ -57,14 +57,6 @@ Actualmente enfocado en fortalecer mis habilidades en **QA Automation**, utiliza
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoMunozJS&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMunozJS&layout=compact&theme=tokyonight)
-
----
-
 ### 📚 Formación
 
 - Ingeniería Informática — Duoc UC.
