@@ -1,39 +1,83 @@
-# 👋 Hola, soy Nicolás Muñoz  
+# 👋 Hola, soy Nicolás Muñoz
 
-💻 **QA Analyst | Ingeniero en Informática | Desarrollador en formación**  
+### QA Engineer | QA Automation | Ingeniero Informático
 
-Actualmente estoy:
-- 🚀 Aprendiendo **React & JavaScript** en Desafío Latam.  
-- 🔍 Especializado en **pruebas manuales y Quality Assurance**.  
-- 📚 Construyendo proyectos con **GitHub, React y Node.js**.  
+Ingeniero Informático con **5 años de experiencia en aseguramiento de calidad de software (QA)**, especializado en testing funcional y con conocimientos en automatización de pruebas.
 
-🌎 Desde **Chile**, siempre buscando mejorar mis habilidades técnicas y aportar valor en equipos de desarrollo.  
+Actualmente enfocado en fortalecer mis habilidades en **QA Automation**, utilizando Playwright, TypeScript, JavaScript y herramientas para testing de API.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
-- **Lenguajes:** JavaScript, HTML, CSS, BBDD  
-- **Frameworks/Librerías:** React, Node.js (aprendiendo)  
-- **QA Tools:** Jira, Confluence, Git 
-- **Otros:** GitHub Actions, Agile / Scrum  
+
+**🔍 QA & Testing**
+- Testing funcional, regresión y pruebas exploratorias.
+- Diseño y ejecución de casos de prueba.
+- Gestión y seguimiento de defectos.
+- STLC y metodología Scrum.
+
+**🤖 Automatización de pruebas**
+- Playwright
+- TypeScript
+- JavaScript
+
+**🔌 API Testing**
+- Postman
+- Newman
+
+**💻 Desarrollo**
+- React
+- Node.js
+- Express
+- HTML5
+- CSS3
+
+**🗄️ Bases de datos**
+- PostgreSQL
+- Oracle
+- SQL
+
+**⚙️ Herramientas**
+- Git & GitHub
+- Jira
+- Confluence
+- GitHub Actions
 
 ---
 
-### 📂 Algunos proyectos destacados
-- [Pizzería Mamma Mía](https://github.com/nicomunozjs/pizzeria-mammamia-2) – Manejo de estados y formularios en React.  
-- [Iguana Page](https://github.com/NicoMunozJS/desafio-18-estados-componentes-eventos) – Landing page con HTML, CSS y JS.  
-- [Cuppon](https://github.com/NicoMunozJS/desafio-04-cupon) – Proyecto de maquetación responsiva.  
+### 📂 Proyectos destacados
+
+**Desarrollo Full Stack**
+- [Fitness E-commerce](https://github.com/NicoMunozJS/hito-3-fitness-ecommerce) — Aplicación de comercio electrónico desarrollada con React, Node.js, Express y PostgreSQL.
+
+**Desarrollo Frontend**
+- [Pizzería Mamma Mía](https://github.com/nicomunozjs/pizzeria-mammamia-2) — Aplicación React con manejo de estados y formularios.
+- [Iguana Page](https://github.com/NicoMunozJS/desafio-18-estados-componentes-eventos) — Desarrollo frontend con HTML, CSS y JavaScript.
+- [Cuppon](https://github.com/NicoMunozJS/desafio-04-cupon) — Maquetación web responsiva.
 
 ---
 
-### 📊 Mis estadísticas en GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicomunozjs&show_icons=true&theme=tokyonight)  
+### 📊 Estadísticas de GitHub
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=nicomunozjs&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoMunozJS&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMunozJS&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Conéctate conmigo
-- 💼 LinkedIn: [linkedin.com/in/nicolas-munoz](https://linkedin.com/in/qanicolasmunoz)
-- 💼 Portafolio: https://qanicolasmunoz.vercel.app/
+### 📚 Formación
 
+- Ingeniería Informática — Duoc UC.
+- Bootcamp Full Stack JavaScript — Desafío Latam (440 horas).
+- Formación en Playwright, TypeScript, JavaScript, Postman, Newman y SQL.
+- Preparación para certificación ISTQB CTFL 4.0.
+
+---
+
+### 📫 Conectemos
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/qanicolasmunoz/)
+- 🌐 [Portafolio profesional](https://qanicolasmunoz.vercel.app/)
+- 💻 [GitHub](https://github.com/NicoMunozJS)
+
+📍 Chile
