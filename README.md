@@ -51,9 +51,19 @@ Actualmente enfocado en fortalecer mis habilidades en **QA Automation**, utiliza
 - [Fitness E-commerce](https://github.com/NicoMunozJS/hito-3-fitness-ecommerce) — Aplicación de comercio electrónico desarrollada con React, Node.js, Express y PostgreSQL.
 
 **Desarrollo Frontend**
-- [Pizzería Mamma Mía](https://github.com/nicomunozjs/pizzeria-mammamia-2) — Aplicación React con manejo de estados y formularios.
-- [Iguana Page](https://github.com/NicoMunozJS/desafio-18-estados-componentes-eventos) — Desarrollo frontend con HTML, CSS y JavaScript.
+- [Pizzería Mamma Mía](https://github.com/NicoMunozJS/desafio-18-estados-componentes-eventos) — Aplicación React con manejo de estados y formularios.
+- [Iguana Page](https://github.com/NicoMunozJS/desafio-03-iguana-page) — Desarrollo frontend con HTML, CSS y JavaScript.
 - [Cuppon](https://github.com/NicoMunozJS/desafio-04-cupon) — Maquetación web responsiva.
+
+---
+
+### 🗂️ Organización del repositorio
+
+- **🎓 [Bootcamp Desafío Latam](https://github.com/NicoMunozJS/NicoMunozJS/tree/master/bootcamp-desafio-latam)** — Desafíos y proyecto final del Bootcamp Full Stack JavaScript, agrupados por módulo: HTML y CSS, JavaScript, React y proyecto final.
+
+- **🤖 [QA Automation](https://github.com/NicoMunozJS/NicoMunozJS/tree/master/qa-automation)** — Proyectos de automatización de pruebas E2E con Playwright y TypeScript, con un espacio preparado para automatización de APIs con Postman.
+
+- **📘 [QA Training Exercises](https://github.com/NicoMunozJS/NicoMunozJS/tree/master/qa-training-exercises)** — Scripts, ejercicios y prácticas de los cursos de formación: SQL, Playwright con TypeScript, API Testing con Postman, JavaScript y TypeScript para testers e ISTQB CTFL 4.0.
 
 ---
 

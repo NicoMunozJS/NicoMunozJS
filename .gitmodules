@@ -1,0 +1,75 @@
+[submodule "bootcamp-desafio-latam/desafio-01-mi-cv-en-html"]
+	path = bootcamp-desafio-latam/desafio-01-mi-cv-en-html
+	url = https://github.com/NicoMunozJS/desafio-01-mi-cv-en-html.git
+[submodule "bootcamp-desafio-latam/desafio-02-landing-page"]
+	path = bootcamp-desafio-latam/desafio-02-landing-page
+	url = https://github.com/NicoMunozJS/desafio-02-landing-page.git
+[submodule "bootcamp-desafio-latam/desafio-03-iguana-page"]
+	path = bootcamp-desafio-latam/desafio-03-iguana-page
+	url = https://github.com/NicoMunozJS/desafio-03-iguana-page.git
+[submodule "bootcamp-desafio-latam/desafio-04-cupon"]
+	path = bootcamp-desafio-latam/desafio-04-cupon
+	url = https://github.com/NicoMunozJS/desafio-04-cupon.git
+[submodule "bootcamp-desafio-latam/desafio-05-git-github"]
+	path = bootcamp-desafio-latam/desafio-05-git-github
+	url = https://github.com/NicoMunozJS/desafio-05-git-github.git
+[submodule "bootcamp-desafio-latam/desafio-06-desarrollo-portafolio"]
+	path = bootcamp-desafio-latam/desafio-06-desarrollo-portafolio
+	url = https://github.com/NicoMunozJS/desafio-06-desarrollo-portafolio.git
+[submodule "bootcamp-desafio-latam/desafio-07-sistema-mensajeria"]
+	path = bootcamp-desafio-latam/desafio-07-sistema-mensajeria
+	url = https://github.com/NicoMunozJS/desafio-07-sistema-mensajeria.git
+[submodule "bootcamp-desafio-latam/desafio-08-layout-ecommerce-grid"]
+	path = bootcamp-desafio-latam/desafio-08-layout-ecommerce-grid
+	url = https://github.com/NicoMunozJS/desafio-08-layout-ecommerce-grid.git
+[submodule "bootcamp-desafio-latam/desafio-09-electric-car-store"]
+	path = bootcamp-desafio-latam/desafio-09-electric-car-store
+	url = https://github.com/NicoMunozJS/desafio-09-electric-car-store.git
+[submodule "bootcamp-desafio-latam/desafio-10-css-animations"]
+	path = bootcamp-desafio-latam/desafio-10-css-animations
+	url = https://github.com/NicoMunozJS/desafio-10-css-animations.git
+[submodule "bootcamp-desafio-latam/desafio-11-calculando-el-total"]
+	path = bootcamp-desafio-latam/desafio-11-calculando-el-total
+	url = https://github.com/NicoMunozJS/desafio-11-calculando-el-total.git
+[submodule "bootcamp-desafio-latam/desafio-12-condiciones"]
+	path = bootcamp-desafio-latam/desafio-12-condiciones
+	url = https://github.com/NicoMunozJS/desafio-12-condiciones.git
+[submodule "bootcamp-desafio-latam/desafio-13-arreglos-y-objetos"]
+	path = bootcamp-desafio-latam/desafio-13-arreglos-y-objetos
+	url = https://github.com/NicoMunozJS/desafio-13-arreglos-y-objetos.git
+[submodule "bootcamp-desafio-latam/desafio-14-todo-list"]
+	path = bootcamp-desafio-latam/desafio-14-todo-list
+	url = https://github.com/NicoMunozJS/desafio-14-todo-list.git
+[submodule "bootcamp-desafio-latam/desafio-15-funciones-javascript"]
+	path = bootcamp-desafio-latam/desafio-15-funciones-javascript
+	url = https://github.com/NicoMunozJS/desafio-15-funciones-javascript.git
+[submodule "bootcamp-desafio-latam/desafio-16-conversor-monedas"]
+	path = bootcamp-desafio-latam/desafio-16-conversor-monedas
+	url = https://github.com/NicoMunozJS/desafio-16-conversor-monedas.git
+[submodule "bootcamp-desafio-latam/desafio-17-formularios-react"]
+	path = bootcamp-desafio-latam/desafio-17-formularios-react
+	url = https://github.com/NicoMunozJS/desafio-17-formularios-react.git
+[submodule "bootcamp-desafio-latam/desafio-18-estados-componentes-eventos"]
+	path = bootcamp-desafio-latam/desafio-18-estados-componentes-eventos
+	url = https://github.com/NicoMunozJS/desafio-18-estados-componentes-eventos.git
+[submodule "bootcamp-desafio-latam/desafio-20-consumo-de-APIs"]
+	path = bootcamp-desafio-latam/desafio-20-consumo-de-APIs
+	url = https://github.com/NicoMunozJS/desafio-20-consumo-de-APIs.git
+[submodule "bootcamp-desafio-latam/desafio-21-context-routing"]
+	path = bootcamp-desafio-latam/desafio-21-context-routing
+	url = https://github.com/NicoMunozJS/desafio-21-context-routing.git
+[submodule "bootcamp-desafio-latam/desafio-22-Context-API"]
+	path = bootcamp-desafio-latam/desafio-22-Context-API
+	url = https://github.com/NicoMunozJS/desafio-22-Context-API.git
+[submodule "bootcamp-desafio-latam/desafio-23-react-router-ll"]
+	path = bootcamp-desafio-latam/desafio-23-react-router-ll
+	url = https://github.com/NicoMunozJS/desafio-23-react-router-ll.git
+[submodule "bootcamp-desafio-latam/desafio-24-JWT"]
+	path = bootcamp-desafio-latam/desafio-24-JWT
+	url = https://github.com/NicoMunozJS/desafio-24-JWT.git
+[submodule "bootcamp-desafio-latam/hito-2-fitness-ecommerce"]
+	path = bootcamp-desafio-latam/hito-2-fitness-ecommerce
+	url = https://github.com/NicoMunozJS/hito-2-fitness-ecommerce.git
+[submodule "bootcamp-desafio-latam/hito-3-fitness-ecommerce"]
+	path = bootcamp-desafio-latam/hito-3-fitness-ecommerce
+	url = https://github.com/NicoMunozJS/hito-3-fitness-ecommerce.git
