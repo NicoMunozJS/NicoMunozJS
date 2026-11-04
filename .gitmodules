@@ -73,3 +73,6 @@
 [submodule "bootcamp-desafio-latam/hito-3-fitness-ecommerce"]
 	path = bootcamp-desafio-latam/hito-3-fitness-ecommerce
 	url = https://github.com/NicoMunozJS/hito-3-fitness-ecommerce.git
+[submodule "qa-automation/termino-de-giro-h3-h4"]
+	path = qa-automation/termino-de-giro-h3-h4
+	url = https://github.com/NicoMunozJS/termino-de-giro-h3-h4.git
