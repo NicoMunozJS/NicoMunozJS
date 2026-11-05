@@ -1,85 +1,58 @@
-# 👋 Hola, soy Nicolás Muñoz
+# 👋 ¡Hola! Soy Nicolás Muñoz
 
-### QA Engineer | QA Automation | Ingeniero Informático
+**QA Functional Analyst | Software Testing | QA Automation**
 
-Ingeniero Informático con **5 años de experiencia en aseguramiento de calidad de software (QA)**, especializado en testing funcional y con conocimientos en automatización de pruebas.
+Bienvenido a mi portafolio de proyectos. Aquí encontrarás trabajos de desarrollo Full Stack, automatización de pruebas y ejercicios técnicos de formación.
 
-Actualmente enfocado en fortalecer mis habilidades en **QA Automation**, utilizando Playwright, TypeScript, JavaScript y herramientas para testing de API.
+## 🗂️ Explora mi portafolio
 
----
+### 🤖 [QA Automation](https://github.com/NicoMunozJS/qa-automation)
 
-### 🛠️ Tecnologías y herramientas
+Proyectos de automatización de pruebas de software.
 
-**🔍 QA & Testing**
-- Testing funcional, regresión y pruebas exploratorias.
-- Diseño y ejecución de casos de prueba.
-- Gestión y seguimiento de defectos.
-- STLC y metodología Scrum.
+- Automatización E2E con Playwright y TypeScript.
+- Testing de APIs con Postman.
+- Proyectos prácticos de QA Automation.
 
-**🤖 Automatización de pruebas**
-- Playwright
-- TypeScript
-- JavaScript
-
-**🔌 API Testing**
-- Postman
-- Newman
-
-**💻 Desarrollo**
-- React
-- Node.js
-- Express
-- HTML5
-- CSS3
-
-**🗄️ Bases de datos**
-- PostgreSQL
-- Oracle
-- SQL
-
-**⚙️ Herramientas**
-- Git & GitHub
-- Jira
-- Confluence
-- GitHub Actions
+**[Explorar proyectos →](https://github.com/NicoMunozJS/qa-automation)**
 
 ---
 
-### 📂 Proyectos destacados
+### 📘 [QA Training Exercises](https://github.com/NicoMunozJS/qa-training-exercises)
 
-**Desarrollo Full Stack**
-- [Fitness E-commerce](https://github.com/NicoMunozJS/bootcamp-desafio-latam/tree/main/hito-3-fitness-ecommerce) — Aplicación de comercio electrónico desarrollada con React, Node.js, Express y PostgreSQL.
+Ejercicios, scripts y prácticas desarrollados durante mi formación técnica.
 
-**Desarrollo Frontend**
-- [Pizzería Mamma Mía](https://github.com/NicoMunozJS/bootcamp-desafio-latam/tree/main/desafio-18-estados-componentes-eventos) — Aplicación React con manejo de estados y formularios.
-- [Iguana Page](https://github.com/NicoMunozJS/bootcamp-desafio-latam/tree/main/desafio-03-iguana-page) — Desarrollo frontend con HTML, CSS y JavaScript.
-- [Cuppon](https://github.com/NicoMunozJS/bootcamp-desafio-latam/tree/main/desafio-04-cupon) — Maquetación web responsiva.
+- SQL y bases de datos.
+- Playwright con TypeScript.
+- API Testing con Postman.
+- JavaScript y TypeScript para testers.
+- ISTQB CTFL 4.0.
 
----
-
-### 🗂️ Repositorios
-
-- **🎓 [Bootcamp Desafío Latam](https://github.com/NicoMunozJS/bootcamp-desafio-latam)** — Desafíos y proyecto final del Bootcamp Full Stack JavaScript, agrupados por módulo: HTML y CSS, JavaScript, React y proyecto final.
-
-- **🤖 [QA Automation](https://github.com/NicoMunozJS/qa-automation)** — Proyectos de automatización de pruebas E2E con Playwright y TypeScript, con un espacio preparado para automatización de APIs con Postman.
-
-- **📘 [QA Training Exercises](https://github.com/NicoMunozJS/qa-training-exercises)** — Scripts, ejercicios y prácticas de los cursos de formación: SQL, Playwright con TypeScript, API Testing con Postman, JavaScript y TypeScript para testers e ISTQB CTFL 4.0.
+**[Explorar ejercicios →](https://github.com/NicoMunozJS/qa-training-exercises)**
 
 ---
 
-### 📚 Formación
+### 🎓 [Bootcamp Desafío Latam](https://github.com/NicoMunozJS/bootcamp-desafio-latam)
 
-- Ingeniería Informática — Duoc UC.
-- Bootcamp Full Stack JavaScript — Desafío Latam (440 horas).
-- Formación en Playwright, TypeScript, JavaScript, Postman, Newman y SQL.
-- Preparación para certificación ISTQB CTFL 4.0.
+Proyectos y desafíos desarrollados durante el Bootcamp Full Stack JavaScript.
+
+- HTML y CSS.
+- JavaScript.
+- React.
+- Desarrollo de aplicaciones y proyectos finales.
+
+**[Explorar 25 proyectos →](https://github.com/NicoMunozJS/bootcamp-desafio-latam)**
 
 ---
 
-### 📫 Conectemos
+## 🛠️ Tecnologías
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/qanicolasmunoz/)
-- 🌐 [Portafolio profesional](https://qanicolasmunoz.vercel.app/)
-- 💻 [GitHub](https://github.com/NicoMunozJS)
+**QA & Testing:** Playwright, TypeScript, Postman, SQL.
 
-📍 Chile
+**Desarrollo:** JavaScript, TypeScript, React, Node.js, Express.
+
+**Herramientas:** Git, GitHub, Jira.
+
+---
+
+*Portafolio personal de aprendizaje, desarrollo y aseguramiento de calidad de software.*
