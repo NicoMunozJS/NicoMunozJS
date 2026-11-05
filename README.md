@@ -57,13 +57,13 @@ Actualmente enfocado en fortalecer mis habilidades en **QA Automation**, utiliza
 
 ---
 
-### 🗂️ Organización del repositorio
+### 🗂️ Repositorios
 
 - **🎓 [Bootcamp Desafío Latam](https://github.com/NicoMunozJS/bootcamp-desafio-latam)** — Desafíos y proyecto final del Bootcamp Full Stack JavaScript, agrupados por módulo: HTML y CSS, JavaScript, React y proyecto final.
 
-- **🤖 [QA Automation](https://github.com/NicoMunozJS/NicoMunozJS/tree/master/qa-automation)** — Proyectos de automatización de pruebas E2E con Playwright y TypeScript, con un espacio preparado para automatización de APIs con Postman.
+- **🤖 [QA Automation](https://github.com/NicoMunozJS/qa-automation)** — Proyectos de automatización de pruebas E2E con Playwright y TypeScript, con un espacio preparado para automatización de APIs con Postman.
 
-- **📘 [QA Training Exercises](https://github.com/NicoMunozJS/NicoMunozJS/tree/master/qa-training-exercises)** — Scripts, ejercicios y prácticas de los cursos de formación: SQL, Playwright con TypeScript, API Testing con Postman, JavaScript y TypeScript para testers e ISTQB CTFL 4.0.
+- **📘 [QA Training Exercises](https://github.com/NicoMunozJS/qa-training-exercises)** — Scripts, ejercicios y prácticas de los cursos de formación: SQL, Playwright con TypeScript, API Testing con Postman, JavaScript y TypeScript para testers e ISTQB CTFL 4.0.
 
 ---
 
